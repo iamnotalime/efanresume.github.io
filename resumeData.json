@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Stefanus Imanuel",
+    "occupation": "Software Engineer wannabe",
+    "description": "Just A Man who loves to code and develop.",
+    "image": "prof-min-min.jpg",
+    "bio": "Hi there! I am Stefanus or you can call me Efan! . I've been coding for over 2 years now. As a Post Graduate Bachelor's student, I've worked large corporation such as Polytron to help maintain, operate & scale their companies. Along the journey I realised my passion existed in Software engineering and DevOps operation in order to create the better performance of an organization by the optimization. With this passion, I have now built several projects that can equip my evidence of exceptional ability. ",
+    "contactmessage": "Get in touch with me if you are in interest with me!",
+    "email": "stefamanuel@gmail.com",
+    "phone": "+62 821 25426055",
+    "address": {
+      "city": "Tangerang",
+      "state": "Banten",
+      "zip": "15324"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/16T5pf4JYx6rFTFbd3NLDI96D4deuens-/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stefanus-imanuel-bb6223114",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/stefanusimanuelll/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/iamnotalime",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Bina Nusantara",
+        "degree": "Bachelor's Degree, Information System",
+        "majoring": "Applied Database",
+        "graduated": "March 2022",
+        "description": "Graduated with a GPA of 3.37"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT Hartono Istana Teknologi(Polytron)",
+        "title": "System Analyst",
+        "years": "Feb 2021 - Feb 2022",
+        "description": "- Integrating HRIS system - Analyzing data using microsoft sql server management studio - Develop sentiment analysis mobile application using Flutter and python- Troubleshooting HRIS system"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Mobile Development",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": " Gesture Volume Control (Python)",
+        "category": "",
+        "image": "gsvc.jpg",
+        "url": "https://drive.google.com/file/d/1FycC8PAFtxhr27ilob9C_LHqT_vQ7dWT/view?usp=sharing"
+      },
+      {
+        "title": " Hand Detector (Python)",
+        "category": "",
+        "image": "hdtc.jpg",
+        "url": "https://drive.google.com/file/d/1xRsJfGNpZMf-ifzlih2lORfPw1eA7N0Y/view?usp=sharing"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon2.jpg",
+        "url": "https://drive.google.com/file/d/1ym5w-2g3HZbwFFAdq45ZmSlUPXRdsXzD/view?usp=sharing"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "home4.jpg",
+        "url": "https://drive.google.com/file/d/1QY8fT4bu4fMA3kQpyoFWAs5KdHcM6i6G/view?usp=sharing"
+      }
+    ]
+  }
+}
